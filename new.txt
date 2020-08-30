@@ -3,3 +3,6 @@ File Notes
 Dim variables - Done
 Find end/beginning values for Stock - Done
 Figure a way to get End/Beginning values in same side of IF statement
+Use count method to go from end the beginning
+End - (End-count)/First will give %
+Add format for 0.00%
