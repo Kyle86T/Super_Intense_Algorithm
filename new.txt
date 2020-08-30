@@ -1,0 +1,5 @@
+File Notes
+
+Dim variables - Done
+Find end/beginning values for Stock - Done
+Figure a way to get End/Beginning values in same side of IF statement
